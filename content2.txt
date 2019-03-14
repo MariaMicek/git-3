@@ -1,2 +1,4 @@
 New file is the newest and the best!
 File is modified now.
+Third line
+Another line
