@@ -1,1 +1,2 @@
-New file is the newest.
+New file is the newest and the best!
+File is modified now.
